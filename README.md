@@ -5,7 +5,7 @@
 <ul>
 <li>I am a software engineer working in the MERN stack.</li>
 <li>I also work for the fantastic <a href="https://cchealthfoundation.org/" target="_blank">Cook County Health Foundation</a>.
-<li>When I'm not programming I'm an avid Taekwondoin (3rd Gup), role play gamer, hiker, and philosopher.</li>
+<li>When I'm not programming I'm an avid Taekwondoin (2nd Gup), role play gamer, hiker, and philosopher.</li>
 </ul>
 <h3>Where I am</h3>
 <ul>
