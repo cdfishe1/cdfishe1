@@ -13,5 +13,5 @@
 <li>I'm also online. Here's my <a href="https://charlesfisher.dev" target="_blank">Portfolio</a>.</li>
 <li>You can check me out on <a href="https://www.linkedin.com/in/cdfishe1/" target="_blank">LinkedIn</a>.</li>
 </ul>
-<p><img src="https://github-readme-stats.vercel.app/api?username=cdfishe1&show_icons=true&theme=radical" alt="Charles Fisher's GitHub Stats" /></p>
+
 
